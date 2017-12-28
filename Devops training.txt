@@ -1,0 +1,35 @@
+Jenkins - Certification
+No Certification for Devops
+
+Devops - Defination
++++++++++++++++++++++
+Identify the requirements
+bridge the gaps
+Automation 
+Tools identification
+Colobrative Tools
+Continuous integration/Continous development
+
+OPEN Source Tools - Devops rather One specific vendor like HP (earlier)
+
+Cloud - Tools in Cloud environment (GIT,ANT,SONAR,CHEF,PUPPET)
+AWS, IBM...,google cloud
+
+Platform as Service - Entire applicate build with OS, 
+Software as Service - Software will be installed as per scalabilty (Usage) - no need to buy licenses for Year - Users..
+
+Now, all Banks are on Cloud (US) and INDIA Banks are now getting into Cloud
+
+JENKINS-GIT-APACHE-MARVEN-SONAR CUBE (Open Source downloads)
+-------------------------------------------------------------
+
+>Centralized systems - Draw backs
+ Repository
+ Working Directory
+
+>Distributed (Snapshot) - Suggested - 
+ Repository
+ Working Directory
+
+Thru Indexing...code merge is mainted (Indexing is created on SHA-1 algorith - 40bit index value
+GIT - Indexing is must and commit mesg
